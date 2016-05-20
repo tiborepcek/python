@@ -10,6 +10,6 @@ Po inštalácii WinPython (odporúčam verziu [3.4](https://sourceforge.net/proj
 
 Kód bol skúšaný a správne funguje na verzii WinPython-32bit-3.4.4.1.exe.
 
-Ak nechcte Python sťahovať a inštalovať, online priamo v prehliadači si Python vyskúšate na adrese [repl.it](https://repl.it/).
+Ak nechceš Python sťahovať a inštalovať, online priamo v prehliadači si Python vyskúšaš na adrese [repl.it](https://repl.it/).
 
 Ak sa chceš do Pythonu ponoriť hlbšie, odporúčam [seriál o programovaní v Pythone 3 na LinuxExpres.cz](http://www.linuxexpres.cz/software/python-3-1-popularny-interpretovany-jazyk-vhodny-aj-pre).
